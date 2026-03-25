@@ -10,7 +10,8 @@ No dependencies required. Just copy the function into your project:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/first-element-finder.git
+git clone https://github.com/lorddrago12/First-Element-Finder.git
+cd First-Element-Finder
 ```
 
 Or simply copy `findElement.js` directly into your project.
